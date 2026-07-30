@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Canonical source has moved.** `payagent` is developed and released from ArisPay's consolidated monorepo; this repository is a pre-consolidation snapshot (April 2026) kept for history and may lag the published package. The npm package is authoritative: https://www.npmjs.com/package/payagent
+
 # payagent
 
 Let AI agents pay for APIs. The ArisPay SDK for [x402](https://github.com/coinbase/x402) USDC payments — no private keys ever live in your process.
